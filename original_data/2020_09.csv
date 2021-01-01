@@ -1,0 +1,1004 @@
+"corpus","preloaded/eng_jsi_newsfeed_lastmonth"
+"subcorpus",""
+"concordance size","212330"
+"query","Query:[tag=""V.*""][]{0,1}[lemma=""coronavirus"" | lemma=""COVID-19""]"
+"contract COVID-19",3929, 3.58163
+"have COVID-19",3773, 3.43942
+"relate to COVID-19",3236, 2.94990
+"test for COVID-19",2516, 2.29356
+"die from COVID-19",2316, 2.11124
+"confirm COVID-19",2032, 1.85235
+"recover from COVID-19",1971, 1.79674
+"cause by COVID-19",1869, 1.70376
+"die of COVID-19",1812, 1.65180
+"cause COVID-19",1538, 1.40202
+"impact by COVID-19",1529, 1.39382
+"confirm coronavirus",1502, 1.36921
+"be COVID-19",1500, 1.36738
+"infect with COVID-19",1497, 1.36465
+"fight COVID-19",1493, 1.36100
+"affect by COVID-19",1479, 1.34824
+"diagnose with COVID-19",1362, 1.24158
+"treat COVID-19",1342, 1.22335
+"have coronavirus",1328, 1.21059
+"get COVID-19",1322, 1.20512
+"say COVID-19",1308, 1.19236
+"contract the coronavirus",1195, 1.08935
+"follow COVID-19",1170, 1.06656
+"expose to COVID-19",1120, 1.02098
+"spread COVID-19",1062, 0.96811
+"rise coronavirus",970, 0.88424
+"combat COVID-19",945, 0.86145
+"say the coronavirus",871, 0.79399
+"follow the coronavirus",866, 0.78944
+"associate with COVID-19",850, 0.77485
+"prevent COVID-19",844, 0.76938
+"include COVID-19",822, 0.74933
+"fight the coronavirus",817, 0.74477
+"say the COVID-19",800, 0.72927
+"contract coronavirus",799, 0.72836
+"hospitalize with COVID-19",773, 0.70466
+"test for coronavirus",768, 0.70010
+"regard COVID-19",760, 0.69281
+"follow the COVID-19",760, 0.69281
+"rise COVID-19",757, 0.69007
+"deal with COVID-19",754, 0.68734
+"catch COVID-19",725, 0.66090
+"report COVID-19",721, 0.65726
+"die from coronavirus",708, 0.64540
+"have contract COVID-19",699, 0.63720
+"contain the coronavirus",672, 0.61259
+"combat the coronavirus",617, 0.56245
+"respond to COVID-19",613, 0.55880
+"spread the coronavirus",583, 0.53146
+"infect with coronavirus",579, 0.52781
+"have the coronavirus",579, 0.52781
+"report [number] COVID-19",564, 0.51414
+"get a COVID-19",555, 0.50593
+"contain COVID-19",548, 0.49955
+"die of coronavirus",543, 0.49499
+"battle COVID-19",539, 0.49135
+"handle the coronavirus",523, 0.47676
+"catch coronavirus",520, 0.47403
+"get coronavirus",508, 0.46309
+"test COVID-19",493, 0.44941
+"keep COVID-19",456, 0.41568
+"fight the COVID-19",456, 0.41568
+"get a coronavirus",448, 0.40839
+"provide COVID-19",445, 0.40566
+"develop COVID-19",445, 0.40566
+"pose by COVID-19",444, 0.40475
+"recover from coronavirus",436, 0.39745
+"have a COVID-19",436, 0.39745
+"increase COVID-19",433, 0.39472
+"surround COVID-19",431, 0.39289
+"be a COVID-19",428, 0.39016
+"say . COVID-19",427, 0.38925
+"be the coronavirus",414, 0.37740
+"say coronavirus",410, 0.37375
+"hit by COVID-19",410, 0.37375
+"spread coronavirus",409, 0.37284
+"follow coronavirus",408, 0.37193
+"take COVID-19",407, 0.37102
+"be [number] COVID-19",397, 0.36190
+"catch the coronavirus",394, 0.35917
+"violate COVID-19",385, 0.35096
+"treat coronavirus",385, 0.35096
+"link to COVID-19",377, 0.34367
+"address COVID-19",374, 0.34093
+"fight coronavirus",372, 0.33911
+"combat the COVID-19",371, 0.33820
+"report coronavirus",370, 0.33729
+"be coronavirus",363, 0.33091
+"track COVID-19",361, 0.32908
+"detect COVID-19",355, 0.32361
+"hospitalize COVID-19",348, 0.31723
+"attribute to COVID-19",348, 0.31723
+"say that COVID-19",332, 0.30265
+"reduce COVID-19",332, 0.30265
+"succumb to COVID-19",330, 0.30082
+"diagnose with coronavirus",328, 0.29900
+"handle COVID-19",325, 0.29627
+"affect by coronavirus",325, 0.29627
+"battle the coronavirus",321, 0.29262
+"offer COVID-19",316, 0.28806
+"manage COVID-19",313, 0.28533
+"develop a COVID-19",311, 0.28350
+"address the COVID-19",311, 0.28350
+"cause by coronavirus",310, 0.28259
+"comply with COVID-19",306, 0.27895
+"undergo COVID-19",303, 0.27621
+"take a COVID-19",300, 0.27348
+"tackle the coronavirus",300, 0.27348
+"get the coronavirus",300, 0.27348
+"come to COVID-19",299, 0.27256
+"create by COVID-19",297, 0.27074
+"be the COVID-19",296, 0.26983
+"relate to coronavirus",294, 0.26801
+"tackle COVID-19",293, 0.26710
+"record [number] COVID-19",292, 0.26618
+"make COVID-19",290, 0.26436
+"adhere to COVID-19",288, 0.26254
+"handle the COVID-19",285, 0.25980
+"control COVID-19",283, 0.25798
+"prevent coronavirus",278, 0.25342
+"use COVID-19",276, 0.25160
+"have have COVID-19",276, 0.25160
+"show COVID-19",275, 0.25069
+"see COVID-19",266, 0.24248
+"control the coronavirus",266, 0.24248
+"hospitalize for COVID-19",261, 0.23792
+"conduct COVID-19",260, 0.23701
+"give the COVID-19",256, 0.23337
+"breach coronavirus",256, 0.23337
+"manage the COVID-19",254, 0.23154
+"survive COVID-19",250, 0.22790
+"result from COVID-19",247, 0.22516
+"report [number] coronavirus",247, 0.22516
+"downplay the coronavirus",247, 0.22516
+"contain the COVID-19",247, 0.22516
+"surround the coronavirus",246, 0.22425
+"be a coronavirus",246, 0.22425
+"break coronavirus",245, 0.22334
+"experience COVID-19",241, 0.21969
+"recover COVID-19",240, 0.21878
+"take a coronavirus",237, 0.21605
+"have contract coronavirus",237, 0.21605
+"hit by coronavirus",233, 0.21240
+"suffer from COVID-19",230, 0.20967
+"regard the coronavirus",229, 0.20875
+"protect against COVID-19",229, 0.20875
+"present by COVID-19",226, 0.20602
+"include the COVID-19",225, 0.20511
+"deal with coronavirus",222, 0.20237
+"include the coronavirus",220, 0.20055
+"declare COVID-19",218, 0.19873
+"address the coronavirus",216, 0.19690
+"have a coronavirus",213, 0.19417
+"live with COVID-19",212, 0.19326
+"manage the coronavirus",211, 0.19235
+"cite COVID-19",208, 0.18961
+"break COVID-19",208, 0.18961
+"use the COVID-19",207, 0.18870
+"surround the COVID-19",205, 0.18688
+"use the coronavirus",201, 0.18323
+"combat coronavirus",201, 0.18323
+"have [number] COVID-19",200, 0.18232
+"discuss COVID-19",197, 0.17958
+"develop a coronavirus",197, 0.17958
+"increase coronavirus",195, 0.17776
+"take the coronavirus",192, 0.17502
+"monitor COVID-19",191, 0.17411
+"call COVID-19",190, 0.17320
+"take coronavirus",188, 0.17138
+"tackle the COVID-19",187, 0.17047
+"expose to coronavirus",187, 0.17047
+"ease COVID-19",187, 0.17047
+"transmit COVID-19",186, 0.16956
+"know COVID-19",186, 0.16956
+"develop coronavirus",186, 0.16956
+"give COVID-19",185, 0.16864
+"beat COVID-19",185, 0.16864
+"survive the coronavirus",184, 0.16773
+"owe to COVID-19",183, 0.16682
+"defeat COVID-19",183, 0.16682
+"support COVID-19",182, 0.16591
+"infect by COVID-19",182, 0.16591
+"tackle coronavirus",181, 0.16500
+"receive COVID-19",181, 0.16500
+"regard the COVID-19",180, 0.16409
+"cope with COVID-19",179, 0.16317
+"battle coronavirus",177, 0.16135
+"navigate the COVID-19",175, 0.15953
+"stop COVID-19",174, 0.15862
+"bring COVID-19",173, 0.15770
+"keep the coronavirus",172, 0.15679
+"focus on COVID-19",168, 0.15315
+"be [number] coronavirus",168, 0.15315
+"curb the coronavirus",167, 0.15224
+"violate coronavirus",166, 0.15132
+"give the coronavirus",166, 0.15132
+"ease coronavirus",165, 0.15041
+"find COVID-19",163, 0.14859
+"battle the COVID-19",163, 0.14859
+"curb COVID-19",162, 0.14768
+"enforce COVID-19",160, 0.14585
+"contain coronavirus",157, 0.14312
+"record [number] coronavirus",156, 0.14221
+"take the COVID-19",155, 0.14130
+"adapt to COVID-19",154, 0.14038
+"update COVID-19",153, 0.13947
+"treat for COVID-19",153, 0.13947
+"mitigate COVID-19",153, 0.13947
+"diagnose COVID-19",153, 0.13947
+"detect coronavirus",153, 0.13947
+"avoid COVID-19",153, 0.13947
+"lose to COVID-19",151, 0.13765
+"include coronavirus",151, 0.13765
+"do COVID-19",151, 0.13765
+"suspect COVID-19",150, 0.13674
+"expand COVID-19",148, 0.13492
+"screen for COVID-19",146, 0.13309
+"cite the coronavirus",146, 0.13309
+"be no COVID-19",146, 0.13309
+"prevent the coronavirus",145, 0.13218
+"cover COVID-19",144, 0.13127
+"receive a COVID-19",143, 0.13036
+"have the COVID-19",143, 0.13036
+"identify COVID-19",142, 0.12945
+"think COVID-19",141, 0.12853
+"believe COVID-19",141, 0.12853
+"weather the coronavirus",140, 0.12762
+"show coronavirus",140, 0.12762
+"impact by coronavirus",140, 0.12762
+"concern about COVID-19",140, 0.12762
+"breach COVID-19",140, 0.12762
+"be that COVID-19",140, 0.12762
+"keep coronavirus",139, 0.12671
+"face COVID-19",139, 0.12671
+"control the COVID-19",139, 0.12671
+"overcome COVID-19",138, 0.12580
+"implement COVID-19",137, 0.12489
+"observe COVID-19",134, 0.12215
+"note that COVID-19",134, 0.12215
+"confirm positive COVID-19",134, 0.12215
+"weather the COVID-19",133, 0.12124
+"offer free COVID-19",133, 0.12124
+"know that COVID-19",130, 0.11851
+"use coronavirus",129, 0.11759
+"meet COVID-19",129, 0.11759
+"cite coronavirus",129, 0.11759
+"see coronavirus",127, 0.11577
+"confirm [number] COVID-19",127, 0.11577
+"call the coronavirus",125, 0.11395
+"stop the coronavirus",123, 0.11213
+"regard coronavirus",123, 0.11213
+"improve COVID-19",123, 0.11213
+"enforce coronavirus",123, 0.11213
+"fight against COVID-19",120, 0.10939
+"post COVID-19",119, 0.10848
+"think the coronavirus",118, 0.10757
+"link to coronavirus",118, 0.10757
+"distribute a coronavirus",118, 0.10757
+"be before COVID-19",118, 0.10757
+"know the coronavirus",117, 0.10666
+"believe the coronavirus",117, 0.10666
+"worry about COVID-19",116, 0.10574
+"flout coronavirus",116, 0.10574
+"overcome the COVID-19",115, 0.10483
+"show that COVID-19",114, 0.10392
+"survive the COVID-19",113, 0.10301
+"die with COVID-19",113, 0.10301
+"create a COVID-19",113, 0.10301
+"comply with coronavirus",113, 0.10301
+"care for COVID-19",113, 0.10301
+"release COVID-19",112, 0.10210
+"involve COVID-19",112, 0.10210
+"face the COVID-19",112, 0.10210
+"arise from COVID-19",112, 0.10210
+"surge coronavirus",111, 0.10119
+"lead COVID-19",111, 0.10119
+"curb coronavirus",111, 0.10119
+"be not COVID-19",111, 0.10119
+"use for COVID-19",110, 0.10027
+"launch COVID-19",110, 0.10027
+"undergo a COVID-19",109, 0.09936
+"say that coronavirus",109, 0.09936
+"navigate COVID-19",109, 0.09936
+"handle coronavirus",109, 0.09936
+"defeat the coronavirus",109, 0.09936
+"let COVID-19",107, 0.09754
+"launch a COVID-19",107, 0.09754
+"discuss the coronavirus",107, 0.09754
+"help COVID-19",106, 0.09663
+"know about COVID-19",105, 0.09572
+"grow coronavirus",105, 0.09572
+"distribute COVID-19",105, 0.09572
+"do with COVID-19",104, 0.09481
+"flout COVID-19",103, 0.09389
+"cause coronavirus",103, 0.09389
+"make coronavirus",102, 0.09298
+"consider the COVID-19",102, 0.09298
+"concern COVID-19",102, 0.09298
+"book a coronavirus",102, 0.09298
+"know as COVID-19",101, 0.09207
+"distribute a COVID-19",101, 0.09207
+"be no coronavirus",101, 0.09207
+"ensure COVID-19",100, 0.09116
+"come COVID-19",100, 0.09116
+"stop coronavirus",99, 0.09025
+"expect COVID-19",99, 0.09025
+"test coronavirus",98, 0.08934
+"suffer from coronavirus",98, 0.08934
+"provide coronavirus",98, 0.08934
+"have have coronavirus",98, 0.08934
+"exacerbate by COVID-19",98, 0.08934
+"blame the coronavirus",98, 0.08934
+"acquire COVID-19",98, 0.08934
+"understand COVID-19",97, 0.08842
+"overcome the coronavirus",97, 0.08842
+"impose by COVID-19",97, 0.08842
+"base on COVID-19",97, 0.08842
+"track coronavirus",96, 0.08751
+"know coronavirus",96, 0.08751
+"get the COVID-19",96, 0.08751
+"believe that COVID-19",96, 0.08751
+"downplay COVID-19",95, 0.08660
+"bring the coronavirus",95, 0.08660
+"add [number] COVID-19",95, 0.08660
+"add COVID-19",95, 0.08660
+"control coronavirus",94, 0.08569
+"spread of COVID-19",93, 0.08478
+"downplay coronavirus",93, 0.08478
+"reduce coronavirus",92, 0.08387
+"grow COVID-19",92, 0.08387
+"cure COVID-19",92, 0.08387
+"contract the COVID-19",92, 0.08387
+"cite the COVID-19",92, 0.08387
+"stem from COVID-19",91, 0.08295
+"have [number] coronavirus",91, 0.08295
+"consider COVID-19",91, 0.08295
+"rage coronavirus",90, 0.08204
+"carry the coronavirus",90, 0.08204
+"approve COVID-19",90, 0.08204
+"trigger by COVID-19",89, 0.08113
+"bring by COVID-19",89, 0.08113
+"suggest that COVID-19",88, 0.08022
+"see the coronavirus",88, 0.08022
+"report positive COVID-19",88, 0.08022
+"ignore COVID-19",88, 0.08022
+"tie to COVID-19",87, 0.07931
+"monitor the COVID-19",87, 0.07931
+"grapple with COVID-19",87, 0.07931
+"flatten the COVID-19",87, 0.07931
+"undergo coronavirus",86, 0.07840
+"prepare for COVID-19",86, 0.07840
+"kill coronavirus",86, 0.07840
+"die with coronavirus",86, 0.07840
+"transmit the coronavirus",85, 0.07749
+"worsen coronavirus",84, 0.07657
+"delay by COVID-19",84, 0.07657
+"avoid coronavirus",84, 0.07657
+"announce COVID-19",84, 0.07657
+"administer COVID-19",84, 0.07657
+"adhere to coronavirus",84, 0.07657
+"succumb to coronavirus",83, 0.07566
+"disrupt by COVID-19",83, 0.07566
+"call the COVID-19",83, 0.07566
+"abide by COVID-19",83, 0.07566
+"tighten coronavirus",82, 0.07475
+"pass COVID-19",82, 0.07475
+"have test COVID-19",82, 0.07475
+"claim COVID-19",82, 0.07475
+"predict COVID-19",81, 0.07384
+"call coronavirus",81, 0.07384
+"beat the coronavirus",81, 0.07384
+"worsen COVID-19",80, 0.07293
+"treat the coronavirus",80, 0.07293
+"respond to coronavirus",80, 0.07293
+"follow a coronavirus",80, 0.07293
+"drive by COVID-19",79, 0.07202
+"allow COVID-19",79, 0.07202
+"update its COVID-19",78, 0.07110
+"state that COVID-19",78, 0.07110
+"defeat coronavirus",77, 0.07019
+"confirm with COVID-19",77, 0.07019
+"work on COVID-19",76, 0.06928
+"rage COVID-19",76, 0.06928
+"offer coronavirus",76, 0.06928
+"help with COVID-19",76, 0.06928
+"find that COVID-19",76, 0.06928
+"discuss the COVID-19",76, 0.06928
+"deliver COVID-19",76, 0.06928
+"maintain COVID-19",75, 0.06837
+"limit COVID-19",75, 0.06837
+"curb the COVID-19",75, 0.06837
+"cause the COVID-19",75, 0.06837
+"vaccinate against COVID-19",74, 0.06746
+"detect the coronavirus",74, 0.06746
+"support the COVID-19",73, 0.06655
+"blame COVID-19",73, 0.06655
+"add that COVID-19",73, 0.06655
+"transmit coronavirus",72, 0.06563
+"refer to COVID-19",72, 0.06563
+"observe the COVID-19",72, 0.06563
+"kill the coronavirus",72, 0.06563
+"extend COVID-19",72, 0.06563
+"conduct coronavirus",72, 0.06563
+"pertain to COVID-19",71, 0.06472
+"pass another coronavirus",71, 0.06472
+"look at COVID-19",71, 0.06472
+"have no COVID-19",71, 0.06472
+"happen with COVID-19",71, 0.06472
+"give coronavirus",71, 0.06472
+"eliminate COVID-19",71, 0.06472
+"depend on COVID-19",71, 0.06472
+"compare COVID-19",71, 0.06472
+"be experience COVID-19",71, 0.06472
+"talk about COVID-19",70, 0.06381
+"require COVID-19",70, 0.06381
+"produce COVID-19",70, 0.06381
+"navigate the coronavirus",70, 0.06381
+"lead coronavirus",70, 0.06381
+"hospitalize with coronavirus",70, 0.06381
+"face the coronavirus",70, 0.06381
+"associate with coronavirus",70, 0.06381
+"protect from COVID-19",69, 0.06290
+"protect against coronavirus",69, 0.06290
+"help fight COVID-19",69, 0.06290
+"develop severe COVID-19",69, 0.06290
+"conduct [number] COVID-19",69, 0.06290
+"claim that COVID-19",69, 0.06290
+"claim coronavirus",69, 0.06290
+"bring coronavirus",69, 0.06290
+"believe the COVID-19",69, 0.06290
+"process COVID-19",68, 0.06199
+"kill by COVID-19",68, 0.06199
+"follow all COVID-19",68, 0.06199
+"follow a COVID-19",68, 0.06199
+"find coronavirus",68, 0.06199
+"declare the coronavirus",68, 0.06199
+"accelerate by COVID-19",68, 0.06199
+"violate the COVID-19",67, 0.06108
+"suggest COVID-19",67, 0.06108
+"receive coronavirus",67, 0.06108
+"list COVID-19",67, 0.06108
+"have any COVID-19",67, 0.06108
+"beat coronavirus",67, 0.06108
+"understand how COVID-19",66, 0.06016
+"survive coronavirus",66, 0.06016
+"struggle with COVID-19",66, 0.06016
+"soar coronavirus",66, 0.06016
+"review COVID-19",66, 0.06016
+"lift COVID-19",66, 0.06016
+"learn about COVID-19",66, 0.06016
+"ensure that COVID-19",66, 0.06016
+"confront COVID-19",66, 0.06016
+"surround coronavirus",65, 0.05925
+"recover coronavirus",65, 0.05925
+"kill COVID-19",65, 0.05925
+"ignore coronavirus",65, 0.05925
+"end the coronavirus",65, 0.05925
+"create COVID-19",65, 0.05925
+"carry COVID-19",65, 0.05925
+"accommodate COVID-19",65, 0.05925
+"share COVID-19",64, 0.05834
+"receive a coronavirus",64, 0.05834
+"provide free COVID-19",64, 0.05834
+"occasion by COVID-19",64, 0.05834
+"minimize COVID-19",64, 0.05834
+"import COVID-19",64, 0.05834
+"make the coronavirus",63, 0.05743
+"allow the coronavirus",63, 0.05743
+"produce a COVID-19",62, 0.05652
+"live with coronavirus",62, 0.05652
+"lift coronavirus",62, 0.05652
+"infect by coronavirus",62, 0.05652
+"exhibit COVID-19",62, 0.05652
+"come to coronavirus",62, 0.05652
+"seek COVID-19",61, 0.05561
+"pose by coronavirus",61, 0.05561
+"keep the COVID-19",61, 0.05561
+"involve in COVID-19",61, 0.05561
+"be follow COVID-19",61, 0.05561
+"approve a COVID-19",61, 0.05561
+"go through COVID-19",60, 0.05470
+"evolve COVID-19",60, 0.05470
+"describe COVID-19",60, 0.05470
+"approve a coronavirus",60, 0.05470
+"adjust to COVID-19",60, 0.05470
+"report that COVID-19",59, 0.05378
+"be find COVID-19",59, 0.05378
+"pass a coronavirus",58, 0.05287
+"let the coronavirus",58, 0.05287
+"display coronavirus",58, 0.05287
+"cope with coronavirus",58, 0.05287
+"consider the coronavirus",58, 0.05287
+"come the coronavirus",58, 0.05287
+"report a COVID-19",57, 0.05196
+"mention COVID-19",57, 0.05196
+"issue COVID-19",57, 0.05196
+"hospitalize coronavirus",57, 0.05196
+"have be COVID-19",57, 0.05196
+"experience coronavirus",57, 0.05196
+"emerge from COVID-19",57, 0.05196
+"continue COVID-19",57, 0.05196
+"confront the coronavirus",57, 0.05196
+"add . COVID-19",57, 0.05196
+"warn that COVID-19",56, 0.05105
+"think coronavirus",56, 0.05105
+"see the COVID-19",56, 0.05105
+"perform COVID-19",56, 0.05105
+"linger COVID-19",56, 0.05105
+"give that COVID-19",56, 0.05105
+"end the COVID-19",56, 0.05105
+"designate COVID-19",56, 0.05105
+"counter the coronavirus",56, 0.05105
+"connect to COVID-19",56, 0.05105
+"be use COVID-19",56, 0.05105
+"treat for coronavirus",55, 0.05014
+"surpass [number] COVID-19",55, 0.05014
+"suggest the coronavirus",55, 0.05014
+"describe the coronavirus",55, 0.05014
+"cause the coronavirus",55, 0.05014
+"be test COVID-19",55, 0.05014
+"await COVID-19",55, 0.05014
+"put COVID-19",54, 0.04923
+"lead to COVID-19",54, 0.04923
+"have report COVID-19",54, 0.04923
+"come as coronavirus",54, 0.04923
+"add [number] coronavirus",54, 0.04923
+"spread the COVID-19",53, 0.04831
+"relax coronavirus",53, 0.04831
+"relate : COVID-19",53, 0.04831
+"provide a COVID-19",53, 0.04831
+"declare a COVID-19",53, 0.04831
+"confirm [number] coronavirus",53, 0.04831
+"concern the coronavirus",53, 0.04831
+"come as COVID-19",53, 0.04831
+"wait for COVID-19",52, 0.04740
+"surge COVID-19",52, 0.04740
+"see [number] COVID-19",52, 0.04740
+"review the COVID-19",52, 0.04740
+"remain COVID-19",52, 0.04740
+"mean COVID-19",52, 0.04740
+"mandate COVID-19",52, 0.04740
+"end COVID-19",52, 0.04740
+"bring the COVID-19",52, 0.04740
+"acknowledge that COVID-19",52, 0.04740
+"study COVID-19",51, 0.04649
+"register [number] COVID-19",51, 0.04649
+"pay for COVID-19",51, 0.04649
+"involve coronavirus",51, 0.04649
+"follow strict COVID-19",51, 0.04649
+"decline COVID-19",51, 0.04649
+"declare the COVID-19",51, 0.04649
+"undergo a coronavirus",50, 0.04558
+"relax COVID-19",50, 0.04558
+"ravage COVID-19",50, 0.04558
+"pass coronavirus",50, 0.04558
+"hospitalise with COVID-19",50, 0.04558
+"cure coronavirus",50, 0.04558
+"claim the coronavirus",50, 0.04558
+"access COVID-19",50, 0.04558
+"warn of COVID-19",49, 0.04467
+"treat [number] COVID-19",49, 0.04467
+"talk about coronavirus",49, 0.04467
+"suspect coronavirus",49, 0.04467
+"say a COVID-19",49, 0.04467
+"report new COVID-19",49, 0.04467
+"indicate that COVID-19",49, 0.04467
+"have catch coronavirus",49, 0.04467
+"downplay the COVID-19",49, 0.04467
+"distribute coronavirus",49, 0.04467
+"carry coronavirus",49, 0.04467
+"become a coronavirus",49, 0.04467
+"avoid the coronavirus",49, 0.04467
+"accord to COVID-19",49, 0.04467
+"show the coronavirus",48, 0.04376
+"set up COVID-19",48, 0.04376
+"say a coronavirus",48, 0.04376
+"need COVID-19",48, 0.04376
+"mitigate the COVID-19",48, 0.04376
+"learn from COVID-19",48, 0.04376
+"hear of COVID-19",48, 0.04376
+"be battle COVID-19",48, 0.04376
+"announce new coronavirus",48, 0.04376
+"want COVID-19",47, 0.04284
+"think that COVID-19",47, 0.04284
+"target COVID-19",47, 0.04284
+"slow COVID-19",47, 0.04284
+"revise as COVID-19",47, 0.04284
+"read : COVID-19",47, 0.04284
+"linger coronavirus",47, 0.04284
+"establish a COVID-19",47, 0.04284
+"dedicate to COVID-19",47, 0.04284
+"complete a COVID-19",47, 0.04284
+"change COVID-19",47, 0.04284
+"believe coronavirus",47, 0.04284
+"become COVID-19",47, 0.04284
+"affect COVID-19",47, 0.04284
+"address coronavirus",47, 0.04284
+"warn that coronavirus",46, 0.04193
+"warn coronavirus",46, 0.04193
+"manage coronavirus",46, 0.04193
+"include a COVID-19",46, 0.04193
+"focus on coronavirus",46, 0.04193
+"expect the coronavirus",46, 0.04193
+"defy COVID-19",46, 0.04193
+"compare coronavirus",46, 0.04193
+"become a COVID-19",46, 0.04193
+"surpass [number] coronavirus",45, 0.04102
+"suppress COVID-19",45, 0.04102
+"ravage by COVID-19",45, 0.04102
+"pass a COVID-19",45, 0.04102
+"meet the COVID-19",45, 0.04102
+"find a COVID-19",45, 0.04102
+"fear COVID-19",45, 0.04102
+"face with COVID-19",45, 0.04102
+"devastate by COVID-19",45, 0.04102
+"compare the coronavirus",45, 0.04102
+"admit COVID-19",45, 0.04102
+"accelerate COVID-19",45, 0.04102
+"say [number] COVID-19",44, 0.04011
+"introduce COVID-19",44, 0.04011
+"fight off COVID-19",44, 0.04011
+"emerge coronavirus",44, 0.04011
+"do before COVID-19",44, 0.04011
+"counter COVID-19",44, 0.04011
+"assess COVID-19",44, 0.04011
+"understand that COVID-19",43, 0.03920
+"reveal COVID-19",43, 0.03920
+"loosen COVID-19",43, 0.03920
+"improve coronavirus",43, 0.03920
+"display COVID-19",43, 0.03920
+"contribute to COVID-19",43, 0.03920
+"compound by COVID-19",43, 0.03920
+"clear of COVID-19",43, 0.03920
+"become coronavirus",43, 0.03920
+"be fight COVID-19",43, 0.03920
+"work with COVID-19",42, 0.03829
+"weather COVID-19",42, 0.03829
+"stem the coronavirus",42, 0.03829
+"send coronavirus",42, 0.03829
+"say , COVID-19",42, 0.03829
+"publish COVID-19",42, 0.03829
+"prevent the COVID-19",42, 0.03829
+"owe to coronavirus",42, 0.03829
+"monitor for COVID-19",42, 0.03829
+"fight against coronavirus",42, 0.03829
+"extend the COVID-19",42, 0.03829
+"extend coronavirus",42, 0.03829
+"eradicate COVID-19",42, 0.03829
+"emerge COVID-19",42, 0.03829
+"do the coronavirus",42, 0.03829
+"confront the COVID-19",42, 0.03829
+"concern about coronavirus",42, 0.03829
+"boost COVID-19",42, 0.03829
+"be for COVID-19",42, 0.03829
+"approve coronavirus",42, 0.03829
+"show that coronavirus",41, 0.03738
+"participate in COVID-19",41, 0.03738
+"overcome coronavirus",41, 0.03738
+"make a COVID-19",41, 0.03738
+"investigate COVID-19",41, 0.03738
+"indicate COVID-19",41, 0.03738
+"hurt by COVID-19",41, 0.03738
+"help prevent COVID-19",41, 0.03738
+"find a coronavirus",41, 0.03738
+"discuss coronavirus",41, 0.03738
+"begin COVID-19",41, 0.03738
+"apply for COVID-19",41, 0.03738
+"slow the coronavirus",40, 0.03646
+"see how COVID-19",40, 0.03646
+"respect COVID-19",40, 0.03646
+"reel from COVID-19",40, 0.03646
+"ramp up COVID-19",40, 0.03646
+"occupy by COVID-19",40, 0.03646
+"monitor the coronavirus",40, 0.03646
+"help combat COVID-19",40, 0.03646
+"get through COVID-19",40, 0.03646
+"do coronavirus",40, 0.03646
+"create a coronavirus",40, 0.03646
+"work on coronavirus",39, 0.03555
+"report positive coronavirus",39, 0.03555
+"register [number] coronavirus",39, 0.03555
+"record COVID-19",39, 0.03555
+"read more coronavirus",39, 0.03555
+"pend COVID-19",39, 0.03555
+"mishandle the coronavirus",39, 0.03555
+"make the COVID-19",39, 0.03555
+"implement coronavirus",39, 0.03555
+"identify coronavirus",39, 0.03555
+"have confirm COVID-19",39, 0.03555
+"have catch COVID-19",39, 0.03555
+"cure of COVID-19",39, 0.03555
+"conduct [number] coronavirus",39, 0.03555
+"break the coronavirus",39, 0.03555
+"blame coronavirus",39, 0.03555
+"announce new COVID-19",39, 0.03555
+"use federal coronavirus",38, 0.03464
+"produce a coronavirus",38, 0.03464
+"need a COVID-19",38, 0.03464
+"import coronavirus",38, 0.03464
+"have get COVID-19",38, 0.03464
+"exploit the COVID-19",38, 0.03464
+"experience any COVID-19",38, 0.03464
+"expect the COVID-19",38, 0.03464
+"do with coronavirus",38, 0.03464
+"come with COVID-19",38, 0.03464
+"claim that coronavirus",38, 0.03464
+"unfold of COVID-19",37, 0.03373
+"tighten COVID-19",37, 0.03373
+"send COVID-19",37, 0.03373
+"see [number] coronavirus",37, 0.03373
+"make a coronavirus",37, 0.03373
+"lower COVID-19",37, 0.03373
+"have positive COVID-19",37, 0.03373
+"experience a COVID-19",37, 0.03373
+"escalate coronavirus",37, 0.03373
+"defy coronavirus",37, 0.03373
+"declare coronavirus",37, 0.03373
+"cover the coronavirus",37, 0.03373
+"counter the COVID-19",37, 0.03373
+"carry out COVID-19",37, 0.03373
+"administer [number] COVID-19",37, 0.03373
+"think the COVID-19",36, 0.03282
+"report a coronavirus",36, 0.03282
+"reopen after COVID-19",36, 0.03282
+"mention the coronavirus",36, 0.03282
+"inactivate COVID-19",36, 0.03282
+"impose coronavirus",36, 0.03282
+"help coronavirus",36, 0.03282
+"have no coronavirus",36, 0.03282
+"have handle COVID-19",36, 0.03282
+"explain that COVID-19",36, 0.03282
+"explain COVID-19",36, 0.03282
+"do the COVID-19",36, 0.03282
+"diagnose coronavirus",36, 0.03282
+"combine with COVID-19",36, 0.03282
+"book a COVID-19",36, 0.03282
+"warn the coronavirus",35, 0.03191
+"spike COVID-19",35, 0.03191
+"receive the COVID-19",35, 0.03191
+"let the COVID-19",35, 0.03191
+"launch the COVID-19",35, 0.03191
+"have report coronavirus",35, 0.03191
+"have more COVID-19",35, 0.03191
+"follow positive COVID-19",35, 0.03191
+"flatten the coronavirus",35, 0.03191
+"defeat the COVID-19",35, 0.03191
+"contain a coronavirus",35, 0.03191
+"confirm positive coronavirus",35, 0.03191
+"change coronavirus",35, 0.03191
+"announce a COVID-19",35, 0.03191
+"monitor coronavirus",34, 0.03099
+"limit coronavirus",34, 0.03099
+"face coronavirus",34, 0.03099
+"establish COVID-19",34, 0.03099
+"decrease COVID-19",34, 0.03099
+"clear COVID-19",34, 0.03099
+"check for COVID-19",34, 0.03099
+"be treat COVID-19",34, 0.03099
+"be contract COVID-19",34, 0.03099
+"argue that COVID-19",34, 0.03099
+"vaccinate for COVID-19",33, 0.03008
+"trace coronavirus",33, 0.03008
+"take on COVID-19",33, 0.03008
+"spread of coronavirus",33, 0.03008
+"run COVID-19",33, 0.03008
+"offer free coronavirus",33, 0.03008
+"note COVID-19",33, 0.03008
+"name COVID-19",33, 0.03008
+"mean that COVID-19",33, 0.03008
+"introduce new coronavirus",33, 0.03008
+"induce by COVID-19",33, 0.03008
+"increase in COVID-19",33, 0.03008
+"exploit the coronavirus",33, 0.03008
+"describe the COVID-19",33, 0.03008
+"deliver coronavirus",33, 0.03008
+"continue coronavirus",33, 0.03008
+"be report COVID-19",33, 0.03008
+"be offer COVID-19",33, 0.03008
+"assist with COVID-19",33, 0.03008
+"transport COVID-19",32, 0.02917
+"trace COVID-19",32, 0.02917
+"spur by COVID-19",32, 0.02917
+"see more COVID-19",32, 0.02917
+"propose coronavirus",32, 0.02917
+"propose COVID-19",32, 0.02917
+"observe all COVID-19",32, 0.02917
+"loosen coronavirus",32, 0.02917
+"interrupt by COVID-19",32, 0.02917
+"fund COVID-19",32, 0.02917
+"expect coronavirus",32, 0.02917
+"decimate by COVID-19",32, 0.02917
+"buy COVID-19",32, 0.02917
+"be take COVID-19",32, 0.02917
+"be not coronavirus",32, 0.02917
+"be get COVID-19",32, 0.02917
+"announce coronavirus",32, 0.02917
+"allow coronavirus",32, 0.02917
+"administer a COVID-19",32, 0.02917
+"abide by coronavirus",32, 0.02917
+"worry about coronavirus",31, 0.02826
+"understand the coronavirus",31, 0.02826
+"undergo the COVID-19",31, 0.02826
+"suppress coronavirus",31, 0.02826
+"suggest coronavirus",31, 0.02826
+"strike with COVID-19",31, 0.02826
+"stop the COVID-19",31, 0.02826
+"see a COVID-19",31, 0.02826
+"report new coronavirus",31, 0.02826
+"protest coronavirus",31, 0.02826
+"prompt by COVID-19",31, 0.02826
+"predate COVID-19",31, 0.02826
+"moderate COVID-19",31, 0.02826
+"know about coronavirus",31, 0.02826
+"hospitalise COVID-19",31, 0.02826
+"grapple with coronavirus",31, 0.02826
+"get their COVID-19",31, 0.02826
+"find the coronavirus",31, 0.02826
+"expect a coronavirus",31, 0.02826
+"cover coronavirus",31, 0.02826
+"complete COVID-19",31, 0.02826
+"breach the COVID-19",31, 0.02826
+"blame the COVID-19",31, 0.02826
+"be with COVID-19",31, 0.02826
+"be handle COVID-19",31, 0.02826
+"be about COVID-19",31, 0.02826
+"approve for COVID-19",31, 0.02826
+"apply to COVID-19",31, 0.02826
+"analyze COVID-19",31, 0.02826
+"add a COVID-19",31, 0.02826
+"warn COVID-19",30, 0.02735
+"think about COVID-19",30, 0.02735
+"take for COVID-19",30, 0.02735
+"suppress the coronavirus",30, 0.02735
+"support coronavirus",30, 0.02735
+"sniff out COVID-19",30, 0.02735
+"see with COVID-19",30, 0.02735
+"see in COVID-19",30, 0.02735
+"prevent a COVID-19",30, 0.02735
+"obtain COVID-19",30, 0.02735
+"lead the COVID-19",30, 0.02735
+"have see coronavirus",30, 0.02735
+"have confirm coronavirus",30, 0.02735
+"halt COVID-19",30, 0.02735
+"exclude COVID-19",30, 0.02735
+"escalate COVID-19",30, 0.02735
+"eliminate the coronavirus",30, 0.02735
+"concern the COVID-19",30, 0.02735
+"color-code COVID-19",30, 0.02735
+"book coronavirus",30, 0.02735
+"benefit from COVID-19",30, 0.02735
+"avoid contract COVID-19",30, 0.02735
+"suffer COVID-19",29, 0.02644
+"soar COVID-19",29, 0.02644
+"sideline by COVID-19",29, 0.02644
+"require coronavirus",29, 0.02644
+"remember that COVID-19",29, 0.02644
+"release a COVID-19",29, 0.02644
+"reduce the COVID-19",29, 0.02644
+"record coronavirus",29, 0.02644
+"protest against coronavirus",29, 0.02644
+"procure COVID-19",29, 0.02644
+"process coronavirus",29, 0.02644
+"politicize the coronavirus",29, 0.02644
+"mitigate the coronavirus",29, 0.02644
+"link COVID-19",29, 0.02644
+"introduce coronavirus",29, 0.02644
+"expand its COVID-19",29, 0.02644
+"expand coronavirus",29, 0.02644
+"ensure coronavirus",29, 0.02644
+"do have COVID-19",29, 0.02644
+"delay by coronavirus",29, 0.02644
+"conduct a COVID-19",29, 0.02644
+"be on COVID-19",29, 0.02644
+"watch COVID-19",28, 0.02552
+"update its coronavirus",28, 0.02552
+"update coronavirus",28, 0.02552
+"treat the COVID-19",28, 0.02552
+"suggest that coronavirus",28, 0.02552
+"spend on COVID-19",28, 0.02552
+"set COVID-19",28, 0.02552
+"seek a COVID-19",28, 0.02552
+"release its COVID-19",28, 0.02552
+"recognize that COVID-19",28, 0.02552
+"predate the coronavirus",28, 0.02552
+"need a coronavirus",28, 0.02552
+"lose to coronavirus",28, 0.02552
+"lie about COVID-19",28, 0.02552
+"increase during COVID-19",28, 0.02552
+"implement the COVID-19",28, 0.02552
+"have see COVID-19",28, 0.02552
+"have develop COVID-19",28, 0.02552
+"have be coronavirus",28, 0.02552
+"give a coronavirus",28, 0.02552
+"follow positive coronavirus",28, 0.02552
+"facilitate COVID-19",28, 0.02552
+"evaluate COVID-19",28, 0.02552
+"enhance COVID-19",28, 0.02552
+"drive COVID-19",28, 0.02552
+"document COVID-19",28, 0.02552
+"do . COVID-19",28, 0.02552
+"call for COVID-19",28, 0.02552
+"beat the COVID-19",28, 0.02552
+"be how COVID-19",28, 0.02552
+"be . COVID-19",28, 0.02552
+"base on coronavirus",28, 0.02552
+"attribute to coronavirus",28, 0.02552
+"access coronavirus",28, 0.02552
+"want a COVID-19",27, 0.02461
+"use in COVID-19",27, 0.02461
+"track the coronavirus",27, 0.02461
+"strike by COVID-19",27, 0.02461
+"screen for coronavirus",27, 0.02461
+"reveal that COVID-19",27, 0.02461
+"release coronavirus",27, 0.02461
+"pause COVID-19",27, 0.02461
+"overwhelm with COVID-19",27, 0.02461
+"outline COVID-19",27, 0.02461
+"need for COVID-19",27, 0.02461
+"measure COVID-19",27, 0.02461
+"launch its COVID-19",27, 0.02461
+"know the COVID-19",27, 0.02461
+"have get coronavirus",27, 0.02461
+"have any coronavirus",27, 0.02461
+"give a COVID-19",27, 0.02461
+"generate by COVID-19",27, 0.02461
+"exist COVID-19",27, 0.02461
+"discuss how COVID-19",27, 0.02461
+"contact COVID-19",27, 0.02461
+"be in COVID-19",27, 0.02461
+"agree that COVID-19",27, 0.02461
+"title "" COVID-19",26, 0.02370
+"spike coronavirus",26, 0.02370
+"review the coronavirus",26, 0.02370
+"resume COVID-19",26, 0.02370
+"report on COVID-19",26, 0.02370
+"react to COVID-19",26, 0.02370
+"ramp up coronavirus",26, 0.02370
+"produce coronavirus",26, 0.02370
+"practice COVID-19",26, 0.02370
+"hold COVID-19",26, 0.02370
+"force by COVID-19",26, 0.02370
+"exist before COVID-19",26, 0.02370
+"do during COVID-19",26, 0.02370
+"develop the COVID-19",26, 0.02370
+"develop for COVID-19",26, 0.02370
+"come from COVID-19",26, 0.02370
+"be spread COVID-19",26, 0.02370
+"batter by COVID-19",26, 0.02370
+"admit coronavirus",26, 0.02370
+"unfold of coronavirus",25, 0.02279
+"submit a COVID-19",25, 0.02279
+"stick to coronavirus",25, 0.02279
+"start COVID-19",25, 0.02279
+"spiral coronavirus",25, 0.02279
+"secure coronavirus",25, 0.02279
+"open a COVID-19",25, 0.02279
+"note the COVID-19",25, 0.02279
+"mount coronavirus",25, 0.02279
+"launch a coronavirus",25, 0.02279
+"keep with COVID-19",25, 0.02279
+"issue a COVID-19",25, 0.02279
+"involve the coronavirus",25, 0.02279
+"ignore the coronavirus",25, 0.02279
+"hit with coronavirus",25, 0.02279
+"help with coronavirus",25, 0.02279
+"have survive COVID-19",25, 0.02279
+"find that coronavirus",25, 0.02279
+"examine COVID-19",25, 0.02279
+"enter the COVID-19",25, 0.02279
+"enforce the COVID-19",25, 0.02279
+"end coronavirus",25, 0.02279
+"dominate by COVID-19",25, 0.02279
+"determine COVID-19",25, 0.02279
+"counter coronavirus",25, 0.02279
+"consider a COVID-19",25, 0.02279
+"concern coronavirus",25, 0.02279
+"come coronavirus",25, 0.02279
+"collect COVID-19",25, 0.02279
+"cancel by COVID-19",25, 0.02279
+"benefit COVID-19",25, 0.02279
+"be provide COVID-19",25, 0.02279
+"avoid spread COVID-19",25, 0.02279
+"alter by COVID-19",25, 0.02279
+"accept COVID-19",25, 0.02279
+"suspect of COVID-19",24, 0.02188
+"slow coronavirus",24, 0.02188
+"seek coronavirus",24, 0.02188
+"say about COVID-19",24, 0.02188
+"require a COVID-19",24, 0.02188
+"realize that COVID-19",24, 0.02188
+"ravage coronavirus",24, 0.02188
+"prevent a coronavirus",24, 0.02188
+"present COVID-19",24, 0.02188
+"predate the COVID-19",24, 0.02188
+"pass [number] COVID-19",24, 0.02188
+"necessitate by COVID-19",24, 0.02188
+"mishandle the COVID-19",24, 0.02188
+"look for COVID-19",24, 0.02188
+"learn during COVID-19",24, 0.02188
+"isolate COVID-19",24, 0.02188
