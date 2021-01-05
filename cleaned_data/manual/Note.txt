@@ -1,0 +1,7 @@
+手动删除的内容包括：
+1. 助动词
+2. 非动词成分（如fast-spreading等被语料库当作动词的形容词）
+3. 纯动词词组作谓语保留整个词组，如avoid catch
+
+Count
+=len(D2)-len(substitute(D2," ",""))+1
